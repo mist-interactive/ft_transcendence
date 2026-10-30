@@ -1,3 +1,5 @@
+![Screenshot](./Screenshot.png)
+
 _This project has been created as part of the 42 curriculum by anpollan, jpelline, mhirvasm, nraatika, and zfarah._
 
 # Memoir 3167 — ft_transcendence
